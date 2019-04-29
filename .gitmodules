@@ -1,0 +1,27 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/silentradiance/silentradiance_common.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_linux
+[submodule "android"]
+	path = android
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_android.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_ios.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/silentradiance/silentradiance_documentation.git
+[submodule "f-droid"]
+	path = f-droid
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_f-droid.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_windows.git
+[submodule "emscripten"]
+	path = emscripten
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_distance_disco_windows.git
+[submodule "server/src"]
+	path = server/src
+	url = https://github.com/silentradiance/silentradiance_application_silentradiance_server_linux.git
